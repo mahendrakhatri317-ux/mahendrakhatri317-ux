@@ -30,3 +30,4 @@ I am passionate about Python programming, Data Analytics, and building real-worl
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mahendra-khatri-444339327
 - GitHub: https://github.com/mahendrakhatri317-ux
+- instagram : https://www.instagram.com/mahendrakhatri_03?utm_source=qr&igsh=d2Z4ZWlsNG82MHox
