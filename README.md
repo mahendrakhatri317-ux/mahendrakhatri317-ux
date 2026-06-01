@@ -11,11 +11,26 @@
 ---
 
 ## 🚀 About Me
+I am Mahendra Khatri, a passionate Python Developer and Data Analytics enthusiast with a strong interest in building real-world applications and solving problems through technology. I enjoy working with Python, NumPy, Pandas, HTML, CSS, and JavaScript to create practical and user-friendly solutions. Currently, I am expanding my skills in data analytics, software development, and modern technologies while continuously learning and building projects that strengthen my technical expertise.
 
 - 🔭 Currently working on Python & Data Analysis Projects
 - 🌱 Learning Advanced Python, SQL & Machine Learning
 - 💡 Interested in Data Science & Automation
 - 🎯 Goal: Become a Professional Data Analyst
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/mahendra-khatri-444339327" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/mahendrakhatri317-ux" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/mahendrakhatri_03?utm_source=qr&igsh=d2Z4ZWlsNG82MHox" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
 
 ---
 
@@ -62,42 +77,22 @@
 
 ---
 
-💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrakhatri317-ux&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-</p>
+
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+
 
 ---
 
-## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/mahendra-khatri-444339327" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/mahendrakhatri317-ux" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.instagram.com/mahendrakhatri_03?utm_source=qr&igsh=d2Z4ZWlsNG82MHox" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-
----
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
