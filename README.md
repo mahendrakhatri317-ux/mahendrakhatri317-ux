@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahendra Khatri</h1>
+<h1 align="center">Hi 👋, I'm Mahendra Khatri </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&width=700&lines=🐍+Python+Developer;📊+Data+Analyst;🚀+Building+Data+Driven+Projects" />
